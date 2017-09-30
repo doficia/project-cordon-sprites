@@ -1,9 +1,9 @@
-# Sprites
-
 ![Injection](sprites/consumables/injection.png)
 ![Rapier](sprites/weapons/rapier.png)
 ![Dagger](sprites/weapons/dagger.png)
 ![Gasmask](sprites/weapons/bullet.png)
+
+# Sprites
 
 > As a general rule of thumb, please check the current sprites to gain an idea of our art style.
 
