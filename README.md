@@ -1,4 +1,4 @@
-# Project Cordon
+![Header](markdown/header.png)
 
 **Project Cordon is a post-apocalyptic incremental browser game with RPG element galore.**
 
