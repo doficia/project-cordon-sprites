@@ -8,4 +8,6 @@ That is the main concept Project Cordon is built on - set in a post-apocalyptic 
 
 ![Skills](markdown/skills.png)
 
+The radiation and mutants are not the only sources of harm in Project Cordon. The survivors of the apocalypse formed three factions with conflicting goals, interests and discliplines. This makes a restless battle between the three - with the effort to conquer strategic points, sabotage others' infrastrucutre and demand drastical tax. Their - namingly the Resistance, Entropy, and Hazard - only mutual interest is to repel global attacks and prevent irreversible damage to the ecosystem in the dynamic world of Project Cordon.
+
 ![Factions](markdown/factions.png)
