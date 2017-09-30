@@ -1,6 +1,6 @@
 # Project Cordon
 
-> Project Cordon is a post-apocalyptic incremental browser game with RPG element galore.
+**Project Cordon is a post-apocalyptic incremental browser game with RPG element galore.**
 
 The idea was born in April, 2017 after burning countless hours by playing idler-incremental games. Addictive by their nature, such games will give you the illusion you are making progress. Totally effortless progress, as the game will play itself and your numbers (cookies, candies, romances with anime girls) will keep increasing. You check on it twice a day to see how much has been done, and it will always up your level of satisfactory. This has to be the biggest scam since Bitcoin, right?
 
@@ -11,3 +11,9 @@ That is the main concept Project Cordon is built on - set in a post-apocalyptic 
 The radiation and mutants are not the only sources of harm in Project Cordon. The survivors of the apocalypse formed three factions with conflicting goals, interests and discliplines. This makes a restless battle between the three - with the effort to conquer strategic points, sabotage others' infrastrucutre and demand drastical tax. Their - namingly the Resistance, Entropy, and Hazard - only mutual interest is to repel global attacks and prevent irreversible damage to the ecosystem in the dynamic world of Project Cordon.
 
 ![Factions](markdown/factions.png)
+
+**With Hacktoberfest 2017 we are calling out to you to make this all possible with quality artwork.**
+
+We have been planning a community-driven art repository hosted on GitHub for a while - rewarding every contributor with paid goods in Project Cordon and making our assets available for independent game developers out there who are struggling with programmers' art like we do.
+
+Right now we are looking for sprites to be able to back the wide range of items in the game. If interested, please see CONTRIBUTING.md.
