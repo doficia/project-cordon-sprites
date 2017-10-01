@@ -14,7 +14,7 @@
 ## Size
 
 - tag Icon: 128x128 (canvas size; the object does not have to take all space - the larger the sexier though!)
-- tag World: 48x48 ( -II- )
+- tag World: 48x48 (same as above; for tall objects such as trees the 48px height limit can be extended)
 
 ## Format
 
@@ -40,5 +40,9 @@ Icons are very likely to be a part of the UI, such as inventory images of items.
 ## World Tag
 
 Objects with the tag World are to be part of the ingame world. Shocking, huh? We feature an **isometric** (or 3/4) view, so please make sure the sprite is in the correct angle.
+
+## File Location
+
+As long as you put your sprite in the sprites/ folder, it is fine. Place where it feels logical within, but we will take care of sorting that.
 
 [Back to README](README.md)
