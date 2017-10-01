@@ -11,9 +11,13 @@
 
 - original content
 
+## Size
+
+- tag Icon: 128x128 (canvas size; the object does not have to take all space - the larger the sexier though!)
+- tag World: 48x48 ( -II- )
+
 ## Format
 
-- 128x128 (canvas size; the object does not have to take all space - the larger the sexier though!)
 - transparent background
 - PNG format
 
