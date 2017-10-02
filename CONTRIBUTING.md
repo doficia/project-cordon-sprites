@@ -29,6 +29,7 @@
 
 ## Don'ts
 
+- no transparency - alpha value is either 0 or 255
 - no strong outlines
 - no photorealism
 - no gradients
