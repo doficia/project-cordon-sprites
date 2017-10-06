@@ -1,5 +1,7 @@
 ![Header](markdown/header.png)
 
+[Learn more about Hacktoberfest](https://hacktoberfest.digitalocean.com/). TL;DR: a 1-month long event to celebrate open source - organized by DigitalOcean - contributors get free loot (such as T-shirts and stickers).
+
 # Update
 
 As a gratitude for your interest and contribution, here is a generated spritesheet of metalish items in different color schemes. Just like as it applies to the rest of the repository, feel free to use it in any way you want. Happy Hacking!
