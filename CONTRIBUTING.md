@@ -16,6 +16,7 @@
 - tag Icon: 128x128 (canvas size; the object does not have to take all space - the larger the sexier though!)
 - tag World: 48x48 (same as above; for tall objects such as trees the 48px height limit can be extended)
 - tag World-X2: 96x96 (same as above)
+- tag Tile: 64x64 (tileable both horizontally and vertically unless stated otherwise)
 
 ## Format
 
