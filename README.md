@@ -33,3 +33,5 @@ The radiation and mutants are not the only sources of harm in Project Cordon. Th
 We have been planning a community-driven art repository hosted on GitHub for a while - rewarding every contributor with paid goods in Project Cordon and making our assets available for independent game developers out there who are struggling with programmers' art like we do.
 
 Right now we are looking for sprites to be able to back the wide range of items in the game. If interested, please see [Contribution](CONTRIBUTING.md).
+
+# Add some new texts
