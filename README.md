@@ -4,7 +4,7 @@
 
 # Update
 
-As a gratitude for your interest and contribution, here is a generated spritesheet of metalish items in different color schemes. Just like as it applies to the rest of the repository, feel free to use it in any way you want. Happy Hacking!
+As a gratitude for your interest and contribution, here is a generated spritesheet of metalish items in different color schemes. Feel free to use it in any way you want, just like the rest of this repository. Happy Hacking!
 
 ![Spritesheet](markdown/spritesheet.png)
 
