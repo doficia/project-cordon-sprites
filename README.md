@@ -1,6 +1,7 @@
 ![Header](markdown/header.png)
 
-[Learn more about Hacktoberfest](https://hacktoberfest.digitalocean.com/). TL;DR: a 1-month long event to celebrate open source - organized by DigitalOcean - contributors get free loot (such as T-shirts and stickers).
+[Learn more about Hacktoberfest](https://hacktoberfest.digitalocean.com/). TL;DR: Hacktoberfest is month long event to celebrate open source - organized by DigitalOcean in partnership with GitHub - contributors get free loot (such as T-shirts and stickers).
+Every October, Digital Ocean and GitHub ship out free Hacktoberfest shirts to thousands of people around the world.
 
 # Update
 
