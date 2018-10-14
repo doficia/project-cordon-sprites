@@ -13,8 +13,10 @@
 
 ## Size
 
-- tag Icon: 128x128 (canvas size; the object does not have to take all space - the larger the sexier though!)
-- tag World: 48x48 (same as above; for tall objects such as trees the 48px height limit can be extended)
+- tag [Icon](https://github.com/doficia/project-cordon-sprites/issues?q=is%3Aissue+is%3Aopen+label%3Aicon): 128x128 (canvas size; the object does not have to take all space - the larger the sexier though!)
+- tag [World](https://github.com/doficia/project-cordon-sprites/issues?q=is%3Aissue+is%3Aopen+label%3Aworld): 48x48 (same as above; for tall objects such as trees the 48px height limit can be extended)
+- tag [World-X2](https://github.com/doficia/project-cordon-sprites/issues?q=is%3Aissue+is%3Aopen+label%3Aworld-x2): 96x96 (same as above)
+- tag [Tile](https://github.com/doficia/project-cordon-sprites/issues?q=is%3Aissue+is%3Aopen+label%3Atile): 64x64 (tileable both horizontally and vertically unless stated otherwise)
 
 ## Format
 
@@ -41,6 +43,10 @@ Icons are very likely to be a part of the UI, such as inventory images of items.
 ## World Tag
 
 Objects with the tag World are to be part of the ingame world. Shocking, huh? We feature an **isometric** (or 3/4) view, so please make sure the sprite is in the correct angle.
+
+## World-X2 Tag
+
+Same as World, size can be up to twice as large.
 
 ## File Location
 
