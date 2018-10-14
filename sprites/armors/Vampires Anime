@@ -1,0 +1,11 @@
+<html>
+<head>
+<style type="text/css"
+.sprite { background: url('sprite.png') no-repeat top left;  } 
+.sprite.thU4PU2WNV { background-position: 0 0; width: 97px; height: 105px; } 
+</style>
+</head>
+<body> <!-- Image is uploaded along-->
+<div class='sprite thU4PU2WNV'></div>
+</body>
+</html>
